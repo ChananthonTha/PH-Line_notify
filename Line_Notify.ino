@@ -1,4 +1,6 @@
 #include <ESP8266WiFi.h>
+#include <TridentTD_LineNotify.h>
+
 const char* ssid = "xxxxxxxx";       //ชื่อ WiFi **2.4Ghz**
 const char* password = "xxxxxxxxx";  // รหัส WiFi
 const char* LINE_TOKEN = "xxxxxxx"   // Token Line Notify
